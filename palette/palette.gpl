@@ -1,0 +1,14 @@
+GIMP Palette
+Name: Qtradio palette
+
+#
+173 138 224     primary 0
+239 230 253     primary 1
+206 183 241     primary 2
+140  99 201     primary 3
+109  65 172     primary 4
+255 244 147     complement 0
+255 252 230     complement 1
+255 248 187     complement 2
+255 241 113     complement 3
+253 236  81     complement 4
